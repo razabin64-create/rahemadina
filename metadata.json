@@ -1,0 +1,6 @@
+{
+  "name": "মাদরাসা ওয়েব পোর্টাল",
+  "description": "জ্ঞান, আমল ও আদর্শের সমন্বয়ে একটি সুন্দর ভবিষ্যৎ - ইসলামী ও আধুনিক শিক্ষার সমন্বিত শিক্ষাপ্রতিষ্ঠান",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
